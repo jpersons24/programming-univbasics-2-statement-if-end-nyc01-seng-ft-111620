@@ -1,6 +1,6 @@
 # Write your solution here
 
-chance_of_rain = 0.2
+chance_of_rain = 1.0
 
 puts "Let's go outside"
 
