@@ -1,8 +1,8 @@
 # Write your solution here
 
-chance_of_rain = 0.2
+chance_of_rain = 0.0000001
 
-puts "Let's go outside"
+# puts "Let's go outside"
 #
 # if chance_of_rain > 0.5
 #   puts "Pack and umbrella"
@@ -21,4 +21,4 @@ end
 
 
 
-puts "And always wear sunscreen"
+# puts "And always wear sunscreen"
